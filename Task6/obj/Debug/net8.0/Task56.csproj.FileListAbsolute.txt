@@ -1,0 +1,14 @@
+C:\Users\2023\Desktop\c#\Homework\homework7\task6\obj\Debug\net8.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023\Desktop\c#\Homework\homework7\task6\obj\Debug\net8.0\Task56.AssemblyInfoInputs.cache
+C:\Users\2023\Desktop\c#\Homework\homework7\task6\obj\Debug\net8.0\Task56.AssemblyInfo.cs
+C:\Users\2023\Desktop\c#\Homework\homework7\task6\obj\Debug\net8.0\Task56.csproj.CoreCompileInputs.cache
+C:\Users\2023\Desktop\c#\Homework\homework7\task6\bin\Debug\net8.0\Task56.exe
+C:\Users\2023\Desktop\c#\Homework\homework7\task6\bin\Debug\net8.0\Task56.deps.json
+C:\Users\2023\Desktop\c#\Homework\homework7\task6\bin\Debug\net8.0\Task56.runtimeconfig.json
+C:\Users\2023\Desktop\c#\Homework\homework7\task6\bin\Debug\net8.0\Task56.dll
+C:\Users\2023\Desktop\c#\Homework\homework7\task6\bin\Debug\net8.0\Task56.pdb
+C:\Users\2023\Desktop\c#\Homework\homework7\task6\obj\Debug\net8.0\Task56.dll
+C:\Users\2023\Desktop\c#\Homework\homework7\task6\obj\Debug\net8.0\refint\Task56.dll
+C:\Users\2023\Desktop\c#\Homework\homework7\task6\obj\Debug\net8.0\Task56.pdb
+C:\Users\2023\Desktop\c#\Homework\homework7\task6\obj\Debug\net8.0\Task56.genruntimeconfig.cache
+C:\Users\2023\Desktop\c#\Homework\homework7\task6\obj\Debug\net8.0\ref\Task56.dll
